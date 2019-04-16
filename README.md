@@ -6,6 +6,7 @@
 
 <div id="copyright">Developed by Mingtao(Milo) Lu </div>
 <br>
+Note: program was written in Java 7
 <div id="note">
 
 <br>
