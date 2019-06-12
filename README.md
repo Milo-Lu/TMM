@@ -2,7 +2,7 @@
 </head>
 <body bgcolor="#E6E6FA">
 <meta charset="utf-8">
-<h1>TMM</h1>
+<h1>Transfer Matrix Method(TMM)</h1>
 
 <div id="copyright">Developed by Mingtao(Milo) Lu </div>
 <br>
