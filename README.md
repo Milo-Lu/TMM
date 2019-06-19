@@ -6,8 +6,14 @@
 
 <div id="copyright">Developed by Mingtao(Milo) Lu </div>
 <br>
-Note: program was written in Java 7
+Note: program was written in Java 7, the IDE is Eclipse. The follwing external library should be added,
+<a href="http://commons.apache.org/proper/commons-math/"><b>The Apache Commons Mathematics Library</b></a>
+
+<a href="http://www.jfree.org/jfreechart/"><b>JFreeChart</b></a>
 <div id="note">
+
+
+<img src="Screenshot from 2019-06-19 13-43-09.png" alt="Screenshot">
 
 <br>
 <br>
